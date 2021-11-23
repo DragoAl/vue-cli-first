@@ -4,7 +4,7 @@
 
 <script>
 export default {
-   name: 'MyFirstApp',
+   name: 'Title',
    props: {
        msg: String
    }
